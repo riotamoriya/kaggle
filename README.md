@@ -1,2 +1,5 @@
-# kaggle
-use for kaggle
+# kaggle　用レポジトリ
+
+森谷亮太がkaggleを扱うためのレポジトリです。
+汚いですがご覧ください。
+
