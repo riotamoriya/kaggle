@@ -1,0 +1,3 @@
+20211117:
+- How to use colab on kaggle.
+- titanic
